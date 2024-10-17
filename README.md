@@ -42,6 +42,16 @@ Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por fa
 4. Haz un push a tu rama (git push origin feature/nueva-funcionalidad).
 5. Abre un Pull Request.
 
+## Futuras lineas del proyecto
+- Hacer lo mismo con los años del 15-21 y 23-25 Goles
+- Hacer lo mismo con los años del 15-21 y 23-25 Asistencia
+- Hacer lo mismo con los años del 15-21 y 23-25 Tarjetas
+- Hacer lo mismo con los años del 15-21 y 23-25 Faltas
+- Mejorar scraping
+- Mejorar obtención Id fifa (fusión datasets)
+- Llevarlo a un proyecto de ML
+
+
 
 ## Contacto
 Para más información, por favor contacta a 2012franmartinez@gmail.com
