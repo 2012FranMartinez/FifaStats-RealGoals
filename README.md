@@ -32,6 +32,9 @@ cd <nombre del directorio>
 pip install -r requirements.txt
 4. Abre el notebook Jupyter:
 jupyter notebook
+5. ¡¡¡AVISO CHROMEDRIVER!!!
+Si quieres utilizar la parte del scraping, _tienes que descargar el chromedriver_ según la versión del google chrome que tengas de <[ChromeDriver Downlads](https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419)>
+
 Ejecuta las celdas para realizar el análisis.
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor sigue estos pasos:
