@@ -9,7 +9,7 @@ Hay un objetivo ulterior que se trata de obtener patrones que permitan no solo u
 
 ## Presentación
 
-Presentación --><[URL](https://gamma.app/docs/ssgpco10m2u6cs5?following_id=fary9hjdj3f1jyn&follow_on_start=true)>
+<[URL para ver la presentación del trabajo](https://gamma.app/docs/ssgpco10m2u6cs5?following_id=fary9hjdj3f1jyn&follow_on_start=true)>
 
 ## Contenido del Dataset
 
