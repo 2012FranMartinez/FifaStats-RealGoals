@@ -11,6 +11,10 @@ Hay un objetivo ulterior que se trata de obtener patrones que permitan no solo u
 
 <[URL para ver la presentación del trabajo](https://gamma.app/docs/ssgpco10m2u6cs5?following_id=fary9hjdj3f1jyn&follow_on_start=true)>
 
+## 🔧 Herramientas y librerías utilizadas
+Python, Numpy, Pandas, Matplotlib y Seaborn entre otras. Con especial mención a Selenium para poder llevar a cabo toda la parte de Web Scrapping 🔍 y construcción de la base de datos final para el trabajo realizado.
+
+
 ## Contenido del Dataset
 
 El dataset está compuesto por dos datasets, uno obtenido por kaggel con los datos del fifa 2022, el cual incluye las siguientes columnas:
