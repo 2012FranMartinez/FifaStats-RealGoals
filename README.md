@@ -9,7 +9,11 @@ Hay un objetivo ulterior que se trata de obtener patrones que permitan no solo u
 
 ## Presentación
 
-Presentación --><[URL de la presentación](https://gamma.app/docs/ssgpco10m2u6cs5?following_id=fary9hjdj3f1jyn&follow_on_start=true)>
+<[URL para ver la presentación del trabajo](https://gamma.app/docs/ssgpco10m2u6cs5?following_id=fary9hjdj3f1jyn&follow_on_start=true)>
+
+## 🔧 Herramientas y librerías utilizadas
+Python, Numpy, Pandas, Matplotlib y Seaborn entre otras. Con especial mención a Selenium para poder llevar a cabo toda la parte de Web Scrapping 🔍 y construcción de la base de datos final para el trabajo realizado.
+
 
 ## Contenido del Dataset
 
@@ -40,11 +44,9 @@ nombre match_id posicion pj pt goles asistencias tarjetas equipo porteria
    git clone <[URL del repositorio](https://github.com/2012FranMartinez/FifaStats-RealGoals.git)>
 2. Navega al directorio del proyecto:
    cd <nombre del directorio>
-3. Instala las dependencias necesarias:
-   pip install -r requirements.txt
-4. Abre el notebook Jupyter:
+3. Abre el notebook Jupyter:
    jupyter notebook
-5. ¡¡¡AVISO CHROMEDRIVER!!!
+4. ¡¡¡AVISO CHROMEDRIVER!!!
    Si quieres utilizar la parte del scraping, _tienes que descargar el chromedriver_ según la versión del google chrome que tengas de <[ChromeDriver Downlads](https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419)>
 
 Ejecuta las celdas para realizar el análisis.
